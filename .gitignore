@@ -1,0 +1,26 @@
+# Virtual Environment & Python Bytecode
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables & Secrets
+.env
+.env.*
+!.env.example
+
+# Temporary Scratch & Debug Artifacts
+scratch_*
+*.bak
+*_backup.py
+discovered_players.json
+all_clubs_staging.json
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+~$*.xlsx

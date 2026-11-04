@@ -1,0 +1,13 @@
+beautifulsoup4==4.15.0
+curl_cffi==0.16.3
+deep-translator==1.11.4
+httpx==0.28.1
+numpy==2.5.4
+openai==3.28.0
+openpyxl==3.1.5
+pandas==3.0.6
+pydantic==2.14.0
+requests==2.34.2
+tqdm==4.70.1
+transfermarkt-api==5.0.0
+urllib3==2.8.0
